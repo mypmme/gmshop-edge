@@ -151,7 +151,7 @@
     "@fontsource-variable/manrope": "^5.3.0",
     "@fontsource-variable/noto-sans": "^5.3.0",
     "@fontsource-variable/nunito": "^5.3.0",
-    "@inlang/paraglide-js": "^2.25.4",
+    "@inlang/paraglide-js": "^3.2.2",
     "@rolldown/plugin-babel": "^0.2.4",
     "@semantic-release/commit-analyzer": "^13.0.1",
     "@semantic-release/exec": "^7.1.0",
